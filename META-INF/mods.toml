@@ -1,0 +1,13 @@
+
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "GPL3"
+
+[[mods]]
+modId = "singhfixes"
+version = "1.0.0"
+displayName = "Singh Fixes"
+authors = "elpideus"
+description = '''
+
+'''
